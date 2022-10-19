@@ -24,6 +24,7 @@ INTRODUCTION TO FRONT END WEB DEVELOPMENT ONLINE COURSE via CODE FIRST GIRLS
 ```
 
 ### What is IDE?
+
 - Integrated Development Environment
 - A software application that provides comprehensive facilities to computer programmers for software development. 
 - An IDE normally consists of at least a source code editor, build automation tools and a debugger.
@@ -31,7 +32,7 @@ INTRODUCTION TO FRONT END WEB DEVELOPMENT ONLINE COURSE via CODE FIRST GIRLS
 **For this course, we will be using Visual Studio Code.**
 
 ## Shortcuts
-*Note: I am using Mac.*
+*Note: I am using a Mac.*
 
 - Command + S : Save 
 - html + tab : html tag (plus any other elements)
@@ -39,4 +40,5 @@ INTRODUCTION TO FRONT END WEB DEVELOPMENT ONLINE COURSE via CODE FIRST GIRLS
 ## Resources
 
 ### VSCode Extensions
-- Live Server
+
+- [Live Server](https://www.freecodecamp.org/news/vscode-live-server-auto-refresh-browser/)
