@@ -8,6 +8,7 @@ INTRODUCTION TO FRONT END WEB DEVELOPMENT ONLINE COURSE via CODE FIRST GIRLS
   - [HTML Basics](#html-basics)
 - [Shortcuts](#shortcuts)
 - [Resources](#resources)
+  - [HTML](#html)
   - [Dev Tools](#dev-tools)
   - [VSCode Extensions](#vscode-extensions)
 
@@ -48,6 +49,11 @@ _Note: I am using a Mac._
 - fn + f12 : chrome dev tools
 
 ## Resources
+
+### HTML
+
+- [HTML: HyperText Markup Language](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [Semantic HTML5 Elements Explained(https://www.freecodecamp.org/news/semantic-html5-elements/)
 
 ### DevTools
 
