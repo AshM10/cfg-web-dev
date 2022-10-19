@@ -53,7 +53,7 @@ _Note: I am using a Mac._
 ### HTML
 
 - [HTML: HyperText Markup Language](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- [Semantic HTML5 Elements Explained(https://www.freecodecamp.org/news/semantic-html5-elements/)
+- [Semantic HTML5 Elements Explained](https://www.freecodecamp.org/news/semantic-html5-elements/)
 
 ### DevTools
 
