@@ -7,6 +7,7 @@ INTRODUCTION TO FRONT END WEB DEVELOPMENT ONLINE COURSE via CODE FIRST GIRLS
   - [HTML Basics](#html-basics)
 - [Shortcuts](#shortcuts)
 - [Resources](#resources)
+  - [Dev Tools](#dev-tools)
   - [VSCode Extensions](#vscode-extensions)
 
 ## Session One
@@ -39,6 +40,10 @@ INTRODUCTION TO FRONT END WEB DEVELOPMENT ONLINE COURSE via CODE FIRST GIRLS
 - html + tab : html tag (plus any other elements)
 
 ## Resources
+
+### DevTools
+
+- [Google Chrome Developer Tools](https://www.google.com/chrome/dev/)
 
 ### VSCode Extensions
 
