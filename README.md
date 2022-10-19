@@ -56,3 +56,4 @@ _Note: I am using a Mac._
 ### VSCode Extensions
 
 - [Live Server](https://www.freecodecamp.org/news/vscode-live-server-auto-refresh-browser/)
+- [Emmet in Visual Studio Code](https://code.visualstudio.com/docs/editor/emmet)
