@@ -34,6 +34,7 @@ INTRODUCTION TO FRONT END WEB DEVELOPMENT ONLINE COURSE via CODE FIRST GIRLS
 ## Shortcuts
 *Note: I am using a Mac.*
 
+- ! + tab : html broilerplate
 - Command + S : Save 
 - html + tab : html tag (plus any other elements)
 
