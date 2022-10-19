@@ -6,17 +6,21 @@ INTRODUCTION TO FRONT END WEB DEVELOPMENT ONLINE COURSE via CODE FIRST GIRLS
 - [Session One](#session-one)
   - [HTML Basics](#html-basics)
 - [Shortcuts](#shortcuts)
+- [Resources](#resources)
+  - [VSCode Extensions](#vscode-extensions)
 
 ## Session One
 
 ### HTML Basics
 
 ```html
-<html> <!-- opening tag  -->
+<html> <!-- opening tag -->
   <body>
-    <h1>Hello World!</h1>
+    <h1>Cute animals</h1> <!-- you should only have one h1 -->
+    <h2>I love cats</h2>
+    <h6>I am the smallest</h6>
   </body>
-</html> <!-- closing tag  -->
+</html> <!-- closing tag -->
 ```
 
 ### What is IDE?
@@ -31,3 +35,8 @@ INTRODUCTION TO FRONT END WEB DEVELOPMENT ONLINE COURSE via CODE FIRST GIRLS
 
 - Command + S : Save 
 - html + tab : html tag (plus any other elements)
+
+## Resources
+
+### VSCode Extensions
+- Live Server
