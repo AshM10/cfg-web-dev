@@ -24,7 +24,7 @@ INTRODUCTION TO FRONT END WEB DEVELOPMENT ONLINE COURSE via CODE FIRST GIRLS
 - A software application that provides comprehensive facilities to computer programmers for software development. 
 - An IDE normally consists of at least a source code editor, build automation tools and a debugger.
 
-For this course, we will be using Visual Studio Code. 
+**For this course, we will be using Visual Studio Code.**
 
 ## Shortcuts
 *Note: I am using Mac.*
