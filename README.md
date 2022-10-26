@@ -47,6 +47,7 @@ _Note: I am using a Mac._
 - Command + S : Save
 - html + tab : html tag (plus any other elements)
 - fn + f12 : chrome dev tools
+- Option + Shift + F : auto-format
 
 ## Resources
 
