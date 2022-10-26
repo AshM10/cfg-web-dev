@@ -6,6 +6,8 @@ INTRODUCTION TO FRONT END WEB DEVELOPMENT ONLINE COURSE via CODE FIRST GIRLS
 
 - [Session One](#session-one)
   - [HTML Basics](#html-basics)
+- [Session Two](#session-two)
+  - [CSS Basics](#css-basics)
 - [Shortcuts](#shortcuts)
 - [Resources](#resources)
   - [HTML](#html)
@@ -30,6 +32,14 @@ INTRODUCTION TO FRONT END WEB DEVELOPMENT ONLINE COURSE via CODE FIRST GIRLS
 </html>
 <!-- closing tag -->
 ```
+
+## Session Two
+
+<a href="./session-two">Link to the folder</a>
+
+### CSS Basics
+
+<img width="700" alt="Screen Shot 2022-10-26 at 2 00 49 PM" src="https://user-images.githubusercontent.com/89284873/198113924-8bf93c5a-9145-4783-a609-0038c2e912ad.png">
 
 ### What is IDE?
 
