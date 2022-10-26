@@ -1,0 +1,33 @@
+main {
+  margin: 0 auto;
+  max-width: 400px;
+  text-align: center;
+}
+
+h1,
+h2,
+h3,
+p {
+  border-radius: 4px;
+  padding: 10px;
+}
+
+h1 {
+  color: red;
+  background-color: peachpuff;
+  font-style: italic;
+}
+
+.greet {
+  color: blue;
+  background-color: teal;
+}
+
+.description {
+  color: green;
+  background-color: orange;
+}
+
+#specific {
+  color: palevioletred;
+}
